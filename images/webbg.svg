@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="768"
+   viewBox="0 0 361.42085 203.19999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="168.15329 : 135.0499 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="529.57414 : 127.1124 : 1"
+       inkscape:persp3d-origin="348.86371 : 93.245729 : 1"
+       id="perspective2845" />
+    <linearGradient
+       id="linearGradient2318"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d106d7;stop-opacity:1;"
+         offset="0"
+         id="stop2316" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="347.69"
+       x2="597.75"
+       y1="725.44"
+       x1="597.75"
+       id="dff037aa-d578-4bab-81e7-399360663117">
+      <stop
+         id="stop2861"
+         stop-opacity="0.25"
+         stop-color="gray"
+         offset="0" />
+      <stop
+         id="stop2863"
+         stop-opacity="0.12"
+         stop-color="gray"
+         offset="0.54" />
+      <stop
+         id="stop2865"
+         stop-opacity="0.1"
+         stop-color="gray"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="412.56652"
+     inkscape:cy="369.40762"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-93.800027)">
+    <path
+       style="opacity:0.9;fill:#38115b;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+       d="M 0 0 L 0 768 L 367.55469 768 C 377.2441 720.39895 406.84967 629.0019 497.14258 530.85742 C 628.57115 388.00028 900.00088 613.71431 1128.5723 668 C 1251.1414 697.11017 1324.398 674.45807 1366 647.18945 L 1366 158.57031 C 1322.4482 139.12334 1252.7145 115.83376 1157.1426 108 C 982.85685 93.714255 791.4294 210.85657 608.57227 182.28516 C 469.32366 160.52758 434.48735 51.02493 425.77734 0 L 0 0 z "
+       id="rect815"
+       inkscape:export-filename="C:\Users\TARUN\bg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.26458333,0,0,0.26458333,0,93.800027)" />
+    <path
+       style="opacity:0.203;fill:#0aacc9;fill-opacity:0.41919196;stroke:none;stroke-width:0.24411534;stroke-opacity:1"
+       d="m 66.226183,248.72947 c 0,0 -50.475965,2.95189 -66.226183,19.13745 v 29.1331 h 203.35126 v -0.19482 l -0.33344,-0.42271 C 142.59408,246.11913 66.226183,248.72947 66.226183,248.72947 Z"
+       id="rect822"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\TARUN\shape4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.203;fill:#19d2f3;fill-opacity:0.41919193;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+       d="M 787.58203 0 C 794.54044 132.2654 914.81776 250.65676 1036.1309 281.0625 C 1149.9043 309.5785 1299.0358 254.86848 1366 158.57031 L 1366 0 L 787.58203 0 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,93.800027)"
+       id="rect850"
+       inkscape:export-filename="C:\Users\TARUN\shape3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.203;fill:#19d2f3;fill-opacity:0.41919193;stroke:none;stroke-width:0.26153621;stroke-opacity:1"
+       d="m 282.42208,93.800034 c -11.4169,-0.08913 -6.4324,24.204296 -8.76745,33.110636 -5.69653,21.72761 -27.50476,36.55636 -46.11296,49.13705 -19.75226,13.35419 -32.1083,43.07038 -27.21436,66.52359 3.96136,18.98399 25.52267,39.30624 45.28199,54.42872 H 361.42084 V 93.800034 c 0,0 -47.97485,0.242206 -78.99876,0 z"
+       id="rect857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssscccs"
+       inkscape:export-filename="C:\Users\TARUN\shape2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.203;fill:#b1f0fb;fill-opacity:0.41919196;stroke:none;stroke-width:0.23869134;stroke-opacity:1"
+       d="m 361.42083,165.56059 c -7.77855,6.93437 -17.86361,16.08052 -29.94416,27.38234 -29.8818,27.95558 -96.87303,-10.82693 -115.72156,38.87189 -12.83584,33.84487 1.1592,64.06943 1.1592,64.06943 l 144.50652,1.11577 z"
+       id="rect866"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="C:\Users\TARUN\shape1png.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="opacity:0;fill:#d106d7;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="path2331"
+       cx="-159.12798"
+       cy="159.03871"
+       rx="32.505951"
+       ry="33.261906" />
+  </g>
+</svg>
