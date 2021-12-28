@@ -20,4 +20,4 @@ Contribution is open to improve quality and add some more functionalities in the
 # License
 [MIT](https://opensource.org/licenses/MIT) 
 
-### the theme is used in my project called [Ambition](https://github.com/tarun-bisht/Ambition)
+### This theme is used in my project called [Ambition](https://github.com/tarun-bisht/Ambition)
